@@ -42,9 +42,3 @@ When I’m not coding, you’ll probably find me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/kacper-%C5%82osi%C5%84ski-51997a243/)
 - 📬 kacper.losinski@gmail.com
 
----
-
-## 📊 GitHub Stats
-
-![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperlosinski&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperlosinski&layout=compact&theme=tokyonight)
